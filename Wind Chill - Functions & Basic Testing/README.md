@@ -1,6 +1,6 @@
 ## Summary
 
-In this assignment, we focused on functions, testing, and debugging. The rogramming component consisted of three parts: testing two functions, writing a function that calculates windchill, and using the Python Turtle library to draw shapes.
+In this assignment, we focused on functions, testing, and debugging. The programming component consisted of three parts: testing two functions, writing a function that calculates windchill, and using the Python Turtle library to draw shapes.
 
 I started by writing test cases for two functions that convert between Celsius and Fahrenheit temperature scales. We had to write our test functions and a main function in a separate file and include the if name == "main": trick to protect our main() function from running inadvertently.
 
