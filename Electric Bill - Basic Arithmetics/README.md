@@ -1,8 +1,6 @@
 
 ## Summary
 
-For this assignment, I completed three basic programming components to test my understanding of basic data types, arithmetic operations, and writing simple programs in Python. The programming components included designing and implementing programs to calculate monthly electric bills, ATM withdrawals, and office area and cost.
+This project involves designing and implementing three Python programs to calculate monthly electric bills, ATM withdrawals, and office area and cost. These programs require an understanding of basic data types and arithmetic operations, as well as using functions and formatting output to meet given specifications.
 
-Through this assignment, I learned about the different types of values and expressions in Python, how to structure Python programs using functions, and how to format output to match the given specifications. I also gained experience in writing test cases and flowcharts to improve my program design and documentation.
-
-Overall, this assignment helped me to solidify my understanding of the basics of Python programming and problem-solving. It was one of my first programming experiences, and I have since continued to work on improving my program design and documentation.
+By completing this project, I've gained valuable experience in problem-solving, program design, and documentation. It also teaches how to write effective test cases and create flowcharts to improve program design. Overall, this project serves as a valuable introduction to Python programming and lays a foundation for future projects and programming challenges.
