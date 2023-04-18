@@ -1,6 +1,6 @@
 ## Python-Projects -  Welcome!
 
-In this repository, you'll find a collection of basic Python assignments that I completed within the first part of my ongoing programming journey. These assignments cover a wide range of topics, including basic data structures, conditionals, object-oriented programming, and more. 
+In this repository, you'll find a collection of basic Python projects that I completed within the first part of my ongoing programming journey. These projects cover a wide range of topics, including basic data structures, conditionals, object-oriented programming, and more. 
 
 Notable projects include: 
 * [Remix Master](https://github.com/skippyskiddy/Python-Projects/tree/main/Remix%20Master%20-%20Summative%20Assessment)- a song remixing solution that focuses on computational thinking and procedural decomposition by splitting, joining, and indexing song lyrics 
