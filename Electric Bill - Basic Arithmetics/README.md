@@ -7,4 +7,4 @@ Through this assignment, I learned about the different types of values and expre
 
 ## Notes 
 
-Overall, this assignment helped me to solidify my understanding of the basics of Python programming and problem-solving. It was one of my first programming experiences, and I will continue to work on improving my program design and documentation.
+Overall, this assignment helped me to solidify my understanding of the basics of Python programming and problem-solving. It was one of my first programming experiences, and I have since continued to work on improving my program design and documentation.
