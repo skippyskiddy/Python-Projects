@@ -5,6 +5,4 @@ For this assignment, I completed three basic programming components to test my u
 
 Through this assignment, I learned about the different types of values and expressions in Python, how to structure Python programs using functions, and how to format output to match the given specifications. I also gained experience in writing test cases and flowcharts to improve my program design and documentation.
 
-## Notes 
-
 Overall, this assignment helped me to solidify my understanding of the basics of Python programming and problem-solving. It was one of my first programming experiences, and I have since continued to work on improving my program design and documentation.
